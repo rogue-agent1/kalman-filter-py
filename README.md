@@ -1,2 +1,5 @@
 # kalman-filter-py
-Zero-dependency Python implementation.
+
+1D and multi-dimensional Kalman filter
+
+Zero-dependency Python. Stdlib only.
